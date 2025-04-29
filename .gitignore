@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# FastAPI/Streamlit
+uploaded_files/
+*.log
